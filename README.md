@@ -1,4 +1,4 @@
-# Ultralytics Tiger-pose Dataset
+# Tiger-pose Dataset
 
 ## Introduction
 
